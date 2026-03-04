@@ -1,6 +1,6 @@
 {
   "name": "@synergenius/flowweaver-pack-cloudflare",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cloudflare Workers export target for Flow Weaver",
   "keywords": [
     "flowweaver-marketplace-pack",
